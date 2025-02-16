@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/fondo\ bodyyy2.jpg");
+    background-size:100% ;
+
+  }
+  
+  .container {
+    display: flex;
+    width: 1000px;
+    height: 40px;
+    padding: 80px;
+    color: rgb(254, 254, 254);
+  }
+  
+  .content {
+    width: 0%;
+  }
+  
+  .sidebar {
+    width: 70%;
+    padding-left: 00px;
+  }
+  
+  .text-box {
+    background-color: #100a07ec;
+    padding: 40px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(98, 28, 2, 0.984);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
